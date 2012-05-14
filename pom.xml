@@ -4,12 +4,12 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>uk.co.bssd</groupId>
-	<artifactId>netty-the-elephant</artifactId>
+	<artifactId>vesta</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>Netty The Elephant</name>
-	<description>Playing around with Netty creating simple RPC example</description>
+	<name>Vesta</name>
+	<description>RPC Wrapper around netty</description>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
